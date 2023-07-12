@@ -18,7 +18,7 @@ features:
   - title: Feature A
     details: Marc bleibt Zuhause und lernt brav MCA
   - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Martin was here as well
   - title: Feature C
     details: changed by Mat@ Home v2
 ---
